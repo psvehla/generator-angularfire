@@ -42,7 +42,7 @@
     "chalk": "^1.0.0",
     "wiredep": "^4.0.0",
     "yeoman-generator": "^0.22.5",
-    "yosay": "^1.0.2"
+    "yosay": "^1.1.1"
   },
   "peerDependencies": {
     "generator-karma": ">=0.9.0"
