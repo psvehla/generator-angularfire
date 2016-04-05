@@ -94,6 +94,7 @@ Generator.prototype.addScriptToIndex = function (script) {
       ]
     });
   } catch (e) {
+    /*jshint -W038 */
     this.log.error(chalk.yellow(
       '\nUnable to find ' + fullPath + '. Reference to ' + script + '.js ' + 'not added.\n'
     ));
