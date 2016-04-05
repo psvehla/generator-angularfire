@@ -48,7 +48,7 @@
     "generator-karma": ">=0.9.0"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.0.0",
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-conventional-changelog": "^6.1.0",
     "grunt-release": "^0.13.0",
