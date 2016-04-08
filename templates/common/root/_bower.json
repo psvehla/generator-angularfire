@@ -5,8 +5,8 @@
     "angular": "^<%= ngVer %>",
     "firebase": "<%= afconfig.bower.firebase %>",
     "angularfire": "<%= afconfig.bower.angularfire %>"<% if (bootstrap) { %>,<% if (!compassBootstrap) { %>
-    "bootstrap": "^3.2.0"<% } else { %>
-    "bootstrap-sass-official": "^3.2.0"<% } } %><% if (animateModule) { %>,
+    "bootstrap": "^3.3.6"<% } else { %>
+    "bootstrap-sass-official": "^3.3.6"<% } } %><% if (animateModule) { %>,
     "angular-animate": "^<%= ngVer %>"<% } %><% if (ariaModule) { %>,
     "angular-aria": "^<%= ngVer %>"<% } %><% if (cookiesModule) { %>,
     "angular-cookies": "^<%= ngVer %>"<% } %><% if (messagesModule) { %>,
