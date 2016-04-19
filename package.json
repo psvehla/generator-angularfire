@@ -41,7 +41,7 @@
   "dependencies": {
     "chalk": "^1.0.0",
     "wiredep": "^4.0.0",
-    "yeoman-generator": "^0.22.5",
+    "yeoman-generator": "^0.22.6",
     "yosay": "^1.1.1"
   },
   "peerDependencies": {
