@@ -52,7 +52,7 @@
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-conventional-changelog": "^6.1.0",
     "grunt-release": "^0.13.1",
-    "load-grunt-tasks": "^3.5.0",
+    "load-grunt-tasks": "^3.5.2",
     "mocha": "2.5.0",
     "semver": "^5.1.0",
     "underscore.string": "^3.0.3"
